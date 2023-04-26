@@ -34,17 +34,17 @@ body {
 }
 
 .cupcake1 {
-    background-color: #ff006e;
+    background-color: hsl(77, 27%, 42%);
 }
 
 .cupcake2 {
-    background-color: #fb5607;
+    background-color: #29170e;
 }
 
 .cupcake3 {
-    background-color: #8338ec;
+    background-color: #9d76d3;
 }
 
 .blue {
-    background-color: #3a86ff;
+    background-color: rgb(77, 101, 139);
 }
